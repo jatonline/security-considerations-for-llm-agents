@@ -1,0 +1,14 @@
+color:
+  primary: "#a6192e"
+
+typography:
+  fonts:
+    - family: "Sora"
+      source: "google"
+    - family: "Open Sans"
+      source: "google"
+  base: "Open Sans"
+  headings:
+    family: "Sora"
+    weight: 600  # semibold
+    color: "primary"

@@ -1,0 +1,11 @@
+project:
+  type: website
+
+website:
+  repo-url: https://github.com/jatonline/security-considerations-for-llm-agents
+  repo-actions: [issue]
+
+format:
+  html:
+    title-block-banner: true
+    toc: true
